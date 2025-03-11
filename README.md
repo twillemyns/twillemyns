@@ -5,5 +5,7 @@ Bonjour, je m'appelle Théo Willemyns et je suis développeur web spécialisé d
 ### Technologies et Langages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,react,azure,mysql,mssql)](https://skillicons.dev)
 
+<img src="./img/blazorlogo.webp" alt="Blazor" width="50px">
+
 ### Logiciels et IDE
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,rider,figma)](https://skillicons.dev)
